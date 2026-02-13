@@ -1,0 +1,16 @@
+FreeSimpleGUI
+# Image and GUI automation
+pyautogui
+pygetwindow
+pyscreeze
+Pillow
+
+# OpenCV for template matching
+opencv-python
+numpy
+
+# Windows helpers
+pywin32
+
+# Optional GUI alternative
+PySimpleGUI
